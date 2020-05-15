@@ -1,0 +1,34 @@
+{
+	"id":"timsippell-nintendo-snes",
+	"name":"TimSippell SNES",
+	"author":"Tim Sippell",
+	"version":"2.0",
+	"copyright":"Copyright 2020 Tim Sippell, Open Joystick Display",
+	"license":"BSD 4-Clause Attribution",
+	"website":"https://ojdproject.com",
+	"styles": [{
+			"id": "streamer-us",
+			"name": "Streamer-US",
+			"file": "theme-streamer.html",
+			"mastercss": "theme-us-streamer.css"
+		},
+		{
+			"id": "streamer-us-joysticks",
+			"name": "Streamer-US-Joysticks",
+			"file": "theme-streamer-joysticks.html",
+			"mastercss": "theme-streamer-us-joysticks.css"
+		},
+		{
+			"id": "streamer-white",
+			"name": "Streamer",
+			"file": "theme-streamer.html",
+			"mastercss": "theme-streamer.css"
+		},
+		{
+			"id": "streamer-joysticks",
+			"name": "Streamer-Joysticks",
+			"file": "theme-streamer-joysticks.html",
+			"mastercss": "theme-streamer-joysticks.css"
+		}
+	]
+}

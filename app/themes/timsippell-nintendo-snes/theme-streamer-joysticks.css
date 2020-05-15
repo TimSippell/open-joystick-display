@@ -1,0 +1,78 @@
+.theme {
+	position:relative;
+	top:0px;
+	left:0px;
+	width:500px;
+	height:125px;
+}
+#aButton .snes-button.active{
+	fill: #C1121C !important
+}
+#bButton .snes-button.active{
+	fill: #F7BA0B !important
+}
+#xButton .snes-button.active{
+	fill: #00387b !important
+}
+#yButton .snes-button.active{
+	fill: #007243 !important
+}
+.snes-button.active{
+	fill:#b2b4b2 !important;
+}
+.snes-label.active{
+	fill:#b2b4b2 !important;
+}
+.snes-label.active *{
+	fill:#b2b4b2 !important;
+}
+.snes-label-contrast.active{
+	fill:#54585a !important;
+}
+.snes-label-contrast.active *{
+	fill:#54585a !important;
+}
+.snes-analog-wrapper {
+	position:absolute;
+	top:123px;
+	left:158px;
+	height:47px;
+	width:47px;
+	border-radius:50%;
+}
+.snes-analog {
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:57px;
+	height:57px;
+	margin-left:-28px;
+	margin-top:-28px;
+	background:#DDD;
+	border-radius:50%;
+}
+.snes-analog.active {
+	background:white;
+}
+
+.snes-cstick-wrapper {
+	position:absolute;
+	top:123px;
+	left:298px;
+	height:47px;
+	width:47px;
+	border-radius:50%;
+}
+.snes-cstick {
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:57px;
+	height:57px;
+	margin-left:-28px;
+	margin-top:-28px;
+	background:#DDD;
+	border-radius:50%;
+}
+.snes-cstick.active {
+	background:white;
