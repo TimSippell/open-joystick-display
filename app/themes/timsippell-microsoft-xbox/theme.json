@@ -1,0 +1,17 @@
+{
+	"id": "timsippell-microsoft-xbox",
+	"name": "TimSippell Microsoft Xbox",
+	"author": "Tim Sippell",
+	"version": "1.0",
+	"copyright": "Copyright 2020 Tim Sippell, Open Joystick Display",
+	"license": "BSD 4-Clause Attribution",
+	"website": "https://ojdproject.com",
+	"styles": [
+		{
+			"id": "streamer-white",
+			"name": "Streamer",
+			"file": "theme-streamer.html",
+			"mastercss": "theme-streamer.css"
+		}
+	]
+}
