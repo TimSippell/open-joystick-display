@@ -242,7 +242,7 @@ class Joystick {
 
 			if (active !== false) {
 
-				let scale = ((active+1)/(trigger.range[1]+1))*100;
+				let scale = Math.min(((active+1)/(trigger.range[1]+1)), 1)*100;
 
                 if (trigger.invert) {
                     scale = 100 - scale;
@@ -263,8 +263,10 @@ class Joystick {
                 degrees = parseInt(degrees/2);
 
 				$(`*[ojd-trigger-scale='${i}']`).css('height', `${scale}%`);
+				$(`*[ojd-trigger-scale-horizontal='${i}']`).css('width', `${scale}%`);
 				$(`*[ojd-trigger-move='${i}']`).css('top', `${scale}%`);
 				$(`*[ojd-trigger-scale-inverted='${i}']`).css('height', `${100-scale}%`);
+				$(`*[ojd-trigger-scale-horizontal-inverted='${i}']`).css('width', `${100-scale}%`);
 				$(`*[ojd-trigger-move-inverted='${i}']`).css('top', `${100-scale}%`);
                 $(`*[ojd-trigger-wheel='${i}']`).css('transform', `rotate(${degrees}deg)`);
 				$(`*[ojd-trigger='${i}']`).addClass('trigger-active');
@@ -276,7 +278,9 @@ class Joystick {
 			} else {
 
 				$(`*[ojd-trigger-scale='${i}']`).css('height', '');
+				$(`*[ojd-trigger-scale-horizontal='${i}']`).css('width', '');
 				$(`*[ojd-trigger-scale-inverted='${i}']`).css('height', '');
+				$(`*[ojd-trigger-scale-horizontal-inverted='${i}']`).css('width', '');
 				$(`*[ojd-trigger-move='${i}']`).css('top', ``);
 				$(`*[ojd-trigger-move-inverted='${i}']`).css('top', ``);
                 $(`*[ojd-trigger-wheel='${i}']`).css('transform', ``);
@@ -458,7 +462,7 @@ class Joystick {
 		const joystick = this.getCurrentDriver().getJoystick();
 		const axis = joystick.axes[axisIndex];
 
-		if (axis >= rangeMin && axis <= rangeMax) {
+		if (axis >= rangeMin) {
 			return axis;
 		}
 

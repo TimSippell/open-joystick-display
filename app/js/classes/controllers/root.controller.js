@@ -40,7 +40,6 @@ class RootController {
 			toolbar:new ToolbarController(this)
 		};
 
-		this.electron.window.setTitle("Open Joystick Display - ESC to Toggle Broadcast Mode");
 		this.electron.window.setMenu(null);
 		this.electron.window.setBounds(this.config.getBounds());
 
@@ -97,6 +96,7 @@ class RootController {
 		const broadcast = this.config.getBroadcast();
 		const bounds = remote.getCurrentWindow().getBounds();
 		if (broadcast) {
+			this.electron.window.setTitle("Open Joystick Display - ESC to exit Broadcast Mode");
 			$("*[ojd-broadcast]").addClass('ojd-broadcast-mode');
 			remote.getCurrentWindow().setBounds(this.profiles.getCurrentProfileBounds());
 			if (this.profiles.getCurrentProfileBoundsLock()) {
@@ -106,6 +106,7 @@ class RootController {
 				remote.getCurrentWindow().setAlwaysOnTop(true);
 			}
 		} else {
+			this.electron.window.setTitle("Open Joystick Display - ESC to enter Broadcast Mode");
 			$("*[ojd-broadcast]").removeClass('ojd-broadcast-mode');
 			remote.getCurrentWindow().setBounds(this.config.getBounds());	
 			remote.getCurrentWindow().setResizable(true);

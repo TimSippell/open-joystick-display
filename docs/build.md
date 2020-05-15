@@ -15,7 +15,7 @@ Below are the instructions for developing/deploying Open Joystick Display 2.x. P
 
 ## Development: Getting Started
 In the root of the `open-joystick-display` directory do the following:
-- `gulp electron-rebuild`
+- `gulp rebuild-electron`
 - `yarn start`
 
 Rebuilding electron for your target platform is required due to the bindings required for `node-serialport`. If you skip this step and you launch electron it will have a very broken interface and won't load completely. **Do not skip this step.**

@@ -103,7 +103,9 @@ class Mappings {
 		$(`*[ojd-directional]`).removeClass('active');
 		$(`*[ojd-button]`).removeClass('active');
 		$(`*[ojd-trigger-scale]`).css('height', '');
+		$(`*[ojd-trigger-scale-horizontal]`).css('height', '');
 		$(`*[ojd-trigger-scale-inverted]`).css('height', '');
+		$(`*[ojd-trigger-scale-horizontal-inverted]`).css('height', '');
 		$(`*[ojd-trigger]`).removeClass('trigger-active');
 		$(`*[ojd-trigger-move]`).css('top', ``);
 		$(`*[ojd-trigger-move-inverted]`).css('bottom', ``);
