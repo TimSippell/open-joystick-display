@@ -1,7 +1,7 @@
 {
-	"name":"Untitled Mapping", 
-	"button":[], 
-	"directional":[], 
-	"trigger":[],
-	"triggerFixed":[]
+    "name": "Untitled Mapping",
+    "button": [],
+    "directional": [],
+    "trigger": [],
+    "triggerFixed": []
 }
