@@ -23,7 +23,7 @@ class ToolbarController {
         $.get(OJD.appendCwdPath('app/version'), function( data ) {
           this.localVersion = data;
           $(".ojd-version").html(this.localVersion);
-          $.get({url:'https://ojdproject.com/version.txt',cache: false}, function( data ) {
+          $.get({url:'https://timsippell.com/ojd/version.txt',cache: false}, function( data ) {
               this.remoteVersion = data.trim();
               if (this.localVersion != this.remoteVersion) {
                   $(`${this.rootId} ${this.objectIds.btnDownload}`).show();
