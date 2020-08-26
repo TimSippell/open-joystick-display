@@ -7,7 +7,7 @@ const {
 let mainWindow;
 
 // Fixes it for Windows 10, noticed much more stable performance in OBS Linux as well.
-app.disableHardwareAcceleration();
+//app.disableHardwareAcceleration();
 
 function createWindow() {
 
