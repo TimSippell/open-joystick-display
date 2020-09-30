@@ -2,7 +2,7 @@
 name: Feature Request
 about: Need something?
 title: ''
-labels: 'feature-request'
+labels: 'enhancement'
 assignees: Formedras
 ---
 
