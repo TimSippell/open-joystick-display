@@ -9,7 +9,7 @@ assignees: Formedras
 ## Requirement Checklist:
 Please check each box by replacing the space between the brackets with an 'x'.
 - [ ] This feature is not platform-specific.
-- [ ] This feature does not involve input devices not supported by the HTML5 Gamepad API, RetroSpy, or the OJD Network Server, such as keyboards, the Logitech G13 Gameboard, or the Valve Steam Controller.
+- [ ] This feature does not involve input devices not supported by the HTML5 Gamepad API, RetroSpy, or the OJD Network Server. (Disqualifying devices include, but are not limited to, the Logitech G13 Gameboard and the Valve Steam Controller.)
 - [ ] This feature is within the scope of displaying controller input, or facilitating the display of controller input.
 ### Acknowledgements (Also required):
 - [ ] I recognize that the developer may or may not have the ability or time to implement this feature.
