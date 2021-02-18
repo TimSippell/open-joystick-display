@@ -1,11 +1,11 @@
 {
-	"id":"timsippell-gamecube",
-	"name":"TimSippell Nintendo Gamecube",
-	"author":"Tim Sippell",
-	"version":"1.0",
-	"copyright":"Copyright 2020 Tim Sippell",
-	"license":"BSD 4-Clause Attribution",
-	"website":"https://timsippell.com",
+	"id": "timsippell-gamecube",
+	"name": "TimSippell Nintendo Gamecube",
+	"author": "Tim Sippell",
+	"version": "1.0",
+	"copyright": "Copyright 2021 Tim Sippell",
+	"license": "BSD 4-Clause Attribution",
+	"website": "https://timsippell.com",
 	"styles":[
         {"id":"timsippell-gamecube", "name":"TimSippell Gamecube", "file":"theme-timsippell-gamecube.html", "mastercss":"theme-timsippell-gamecube.css"}
 	]

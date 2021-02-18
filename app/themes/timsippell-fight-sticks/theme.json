@@ -1,0 +1,12 @@
+{
+	"id": "timsippell-fight-sticks",
+	"name": "TimSippell Fight Sticks",
+	"author": "Tim Sippell",
+	"version": "1.0",
+	"copyright": "Copyright 2021 Tim Sippell",
+	"license": "BSD 4-Clause Attribution",
+	"website": "https://ojdproject.com",
+	"styles":[
+		{"id":"analog", "name":"Analog", "file":"analog.html"}
+	]
+}

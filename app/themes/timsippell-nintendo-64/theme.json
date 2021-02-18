@@ -1,11 +1,11 @@
 {
-	"id":"timsippell-nintendo-64",
-	"name":"TimSippell Nintendo 64",
-	"author":"Tim Sippell",
-	"version":"1.0",
-	"copyright":"Copyright 2019 Tim Sippell, Open Joystick Display",
-	"license":"BSD 4-Clause Attribution",
-	"website":"https://ojdproject.com",
+	"id": "timsippell-nintendo-64",
+	"name": "TimSippell Nintendo 64",
+	"author": "Tim Sippell",
+	"version": "1.0",
+	"copyright": "Copyright 2021 Tim Sippell",
+	"license": "BSD 4-Clause Attribution",
+	"website": "https://ojdproject.com",
 	"styles":[
 		{"id":"timsippell-nintendo-64", "name":"TimSippellN64", "file":"theme-streamer.html", "mastercss":"theme-streamer.css"}
 	]
