@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 158.75 105.83333"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="xboxABXY.svg">
   <defs
      id="defs2" />
@@ -25,19 +23,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7491985"
-     inkscape:cx="488.42568"
-     inkscape:cy="152.14886"
+     inkscape:zoom="1"
+     inkscape:cx="300"
+     inkscape:cy="200"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1800"
-     inkscape:window-height="1171"
-     inkscape:window-x="393"
-     inkscape:window-y="757"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="153.0118,54.790251"
        orientation="1,0"
@@ -89,21 +88,21 @@
        class="theme-button"
        ojd-button="A" />
     <circle
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.15628871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.156289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3-5-3-5-0"
-       cx="142.58072"
+       cx="117.47572"
        cy="263.62881"
        r="12.056556" />
     <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3-2-6-8-1-6-4"
-       cx="142.58072"
+       cx="117.47572"
        cy="264.33893"
        r="9.284936" />
     <circle
-       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3-2-62-1-9-2"
-       cx="142.58072"
+       cx="117.47572"
        cy="263.62881"
        r="9.284936"
        inkscape:label="btnR2"
@@ -124,19 +123,20 @@
     </g>
     <g
        aria-label="R2"
-       style="font-style:normal;font-weight:normal;font-size:11.87257385px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29681432"
+       style="font-style:normal;font-weight:normal;font-size:11.8726px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.296814"
        id="text1394-9-3-4-9"
        inkscape:label="lblR2"
        class="theme-button-label"
-       ojd-button="R2">
+       ojd-button="R2"
+       transform="translate(-25.105001)">
       <path
          d="m 140.48886,263.90625 q 0.30049,0.1017 0.58249,0.43455 0.28662,0.33285 0.57324,0.91533 l 0.94769,1.88614 h -1.00317 l -0.88297,-1.77057 q -0.3421,-0.69343 -0.6657,-0.91995 -0.31898,-0.22652 -0.87373,-0.22652 h -1.01703 v 2.91704 h -0.93383 v -6.90198 h 2.10804 q 1.18346,0 1.76595,0.49465 0.58248,0.49465 0.58248,1.4932 0,0.65182 -0.30511,1.08175 -0.30049,0.42993 -0.87835,0.59636 z m -2.33918,-2.89856 v 2.45014 h 1.17421 q 0.67495,0 1.01704,-0.30974 0.34672,-0.31435 0.34672,-0.91995 0,-0.6056 -0.34672,-0.91071 -0.34209,-0.30974 -1.01704,-0.30974 z"
-         style="font-size:9.46768665px;fill:#ffffff;stroke-width:0.29681432"
+         style="font-size:9.46769px;fill:#ffffff;stroke-width:0.296814"
          id="path2795"
          inkscape:connector-curvature="0" />
       <path
          d="m 144.68645,266.35638 h 3.25914 v 0.78589 h -4.3825 v -0.78589 q 0.53163,-0.55012 1.44696,-1.4747 0.91996,-0.9292 1.15573,-1.19733 0.44842,-0.5039 0.62409,-0.85061 0.18029,-0.35134 0.18029,-0.68882 0,-0.55012 -0.38832,-0.89684 -0.3837,-0.34671 -1.00317,-0.34671 -0.43918,0 -0.9292,0.15255 -0.48541,0.15256 -1.04015,0.46229 v -0.94307 q 0.56399,-0.22652 1.05402,-0.34209 0.49002,-0.11558 0.89684,-0.11558 1.07251,0 1.71047,0.53626 0.63796,0.53626 0.63796,1.4331 0,0.4253 -0.1618,0.809 -0.15718,0.37908 -0.57787,0.89684 -0.11557,0.13407 -0.73504,0.77665 -0.61946,0.63796 -1.74745,1.78906 z"
-         style="font-size:9.46768665px;fill:#ffffff;stroke-width:0.29681432"
+         style="font-size:9.46769px;fill:#ffffff;stroke-width:0.296814"
          id="path2797"
          inkscape:connector-curvature="0" />
     </g>
@@ -499,19 +499,19 @@
     </g>
     <g
        id="g1164"
-       transform="translate(-37.683577,-71.456952)">
+       transform="translate(-12.578576,-71.456952)">
       <circle
          r="12.056556"
          cy="308.8154"
          cx="155.15913"
          id="path815-3-5-3"
-         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.1562887;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.156289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="9.284936"
          cy="309.52551"
          cx="155.15913"
          id="path815-3-2-6-8-1"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          ojd-button="L"
          class="theme-button"
@@ -520,19 +520,19 @@
          cy="308.8154"
          cx="155.15913"
          id="path815-3-2-62-1"
-         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(62.788396,45.18658)"
          ojd-button="L"
          class="theme-button-label"
          inkscape:label="lblL"
          id="text1394-9-3-4-9-9-2"
-         style="font-style:normal;font-weight:normal;font-size:11.87257385px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29681432"
+         style="font-style:normal;font-weight:normal;font-size:11.8726px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.296814"
          aria-label="L">
         <path
            inkscape:connector-curvature="0"
            id="path2789"
-           style="font-size:9.46768665px;fill:#ffffff;stroke-width:0.29681432"
+           style="font-size:9.46769px;fill:#ffffff;stroke-width:0.296814"
            d="m 90.223406,260.17785 h 0.933825 v 6.11609 h 3.360844 v 0.78589 h -4.294669 z" />
       </g>
     </g>
@@ -653,20 +653,20 @@
       </g>
     </g>
     <g
-       transform="translate(25.104849,-26.270368)"
+       transform="translate(-1.5225983e-4,-26.270368)"
        id="g2367-9">
       <circle
          r="12.056556"
          cy="263.62881"
          cx="117.47571"
          id="path815-3-5-3-5-9"
-         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.15628871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.156289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="9.284936"
          cy="264.33893"
          cx="117.47571"
          id="path815-3-2-6-8-1-6-3"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          ojd-button="R"
          class="theme-button"
@@ -675,36 +675,36 @@
          cy="263.62881"
          cx="117.47571"
          id="path815-3-2-62-1-9-24"
-         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          ojd-button="R"
          class="theme-button-label"
          inkscape:label="lblR"
          id="text1394-9-3-4-9-9-3"
-         style="font-style:normal;font-weight:normal;font-size:11.87257385px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29681432"
+         style="font-style:normal;font-weight:normal;font-size:11.8726px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.296814"
          aria-label="R">
         <path
            inkscape:connector-curvature="0"
            id="path2792-7"
-           style="font-size:9.46768665px;fill:#ffffff;stroke-width:0.29681432"
+           style="font-size:9.46769px;fill:#ffffff;stroke-width:0.296814"
            d="m 118.06056,263.84381 q 0.30049,0.1017 0.58249,0.43455 0.28662,0.33285 0.57324,0.91533 l 0.94769,1.88614 h -1.00317 l -0.88297,-1.77056 q -0.34209,-0.69344 -0.6657,-0.91996 -0.31898,-0.22652 -0.87372,-0.22652 h -1.01704 v 2.91704 h -0.93383 v -6.90198 h 2.10804 q 1.18346,0 1.76595,0.49465 0.58248,0.49465 0.58248,1.4932 0,0.65183 -0.30511,1.08175 -0.30049,0.42993 -0.87835,0.59636 z m -2.33918,-2.89856 v 2.45014 h 1.17421 q 0.67495,0 1.01704,-0.30974 0.34672,-0.31435 0.34672,-0.91995 0,-0.6056 -0.34672,-0.91071 -0.34209,-0.30974 -1.01704,-0.30974 z" />
       </g>
     </g>
     <g
-       transform="translate(-25.105302,26.270064)"
+       transform="translate(-3.0057526e-4,26.270064)"
        id="g2375-7">
       <circle
          r="12.056556"
          cy="237.35838"
          cx="142.58086"
          id="path815-3-5-3-5-9-0-1"
-         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.15628871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.156289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="9.284936"
          cy="238.06844"
          cx="142.58086"
          id="path815-3-2-6-8-1-6-14-5-3"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          ojd-button="L2"
          class="theme-button"
@@ -713,23 +713,23 @@
          cy="237.35838"
          cx="142.58086"
          id="path815-3-2-62-1-9-9-5-8"
-         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.12036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          ojd-button="L2"
          class="theme-button-label"
          inkscape:label="lblL2"
          id="text1394-9-3-4-0"
-         style="font-style:normal;font-weight:normal;font-size:11.87257385px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29681432"
+         style="font-style:normal;font-weight:normal;font-size:11.8726px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.296814"
          aria-label="L2">
         <path
            inkscape:connector-curvature="0"
            id="path2800-9"
-           style="font-size:9.46768665px;fill:#ffffff;stroke-width:0.29681432"
+           style="font-size:9.46769px;fill:#ffffff;stroke-width:0.296814"
            d="m 137.87244,233.96977 h 0.93382 v 6.11609 h 3.36085 v 0.78589 h -4.29467 z" />
         <path
            inkscape:connector-curvature="0"
            id="path2802-7"
-           style="font-size:9.46768665px;fill:#ffffff;stroke-width:0.29681432"
+           style="font-size:9.46769px;fill:#ffffff;stroke-width:0.296814"
            d="m 144.03013,240.08586 h 3.25914 v 0.78589 h -4.3825 v -0.78589 q 0.53163,-0.55013 1.44697,-1.47471 0.91995,-0.9292 1.15572,-1.19732 0.44842,-0.5039 0.62409,-0.85062 0.18029,-0.35134 0.18029,-0.68881 0,-0.55012 -0.38832,-0.89684 -0.3837,-0.34672 -1.00317,-0.34672 -0.43917,0 -0.9292,0.15256 -0.4854,0.15255 -1.04015,0.46229 v -0.94307 q 0.56399,-0.22652 1.05402,-0.3421 0.49003,-0.11557 0.89684,-0.11557 1.07251,0 1.71047,0.53626 0.63796,0.53625 0.63796,1.43309 0,0.42531 -0.1618,0.80901 -0.15718,0.37908 -0.57786,0.89684 -0.11557,0.13407 -0.73504,0.77665 -0.61947,0.63796 -1.74746,1.78906 z" />
       </g>
     </g>
